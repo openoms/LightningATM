@@ -29,7 +29,8 @@ payment_failed_3 = "operator."
 # Text for update_thankyou_screen()
 thankyou_screen_1 = "Enjoy your new"
 thankyou_screen_2 = "satoshis!!"
-thankyou_screen_3 = "#bitcoin #lightning"
+#thankyou_screen_3 = "#bitcoin #lightning"
+thankyou_screen_3 = " #galoy    #blink"
 
 # Text for update_nocoin_screen()
 nocoin_screen_1 = "No coins added!"
@@ -75,9 +76,9 @@ amount_screen_7 = "% ("
 amount_screen_8 = " sats)"
 
 # Text for update_lnurl_cancel_notice
-lnurl_cancel_notice_1 = "Prepare for LNURL"
-lnurl_cancel_notice_2 = "(Not LNURL compatible?"
-lnurl_cancel_notice_3 = "Press button to cancel)"
+lnurl_cancel_notice_1 = "Preparing LNURL"
+lnurl_cancel_notice_2 = "        ..."
+lnurl_cancel_notice_3 = ""
 
 # Text for update_button_fault()
 button_fault_1 = "Oh Sorry.."
